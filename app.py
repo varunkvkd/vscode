@@ -1,1 +1,1 @@
-print("Hello, GitHub! This is my first push.")
+print("Hello, GitHub! This is my sample push.")
